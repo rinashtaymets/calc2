@@ -1,4 +1,4 @@
-package calculaaaaa;
+package calculaa;
 
 import java.util.HashMap;
 import java.util.Map;
