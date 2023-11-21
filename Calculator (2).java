@@ -1,4 +1,4 @@
-package uz.flymart.seller.bot;
+package calc3;
 
 import java.util.HashMap;
 import java.util.Map;
